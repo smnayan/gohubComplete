@@ -18,7 +18,7 @@ a, a:hover{
 /* Header Section Code*/
 .header-section{
 	width: 100%;
-	background: url("../img/Hero.png") center top no-repeat;
+	background: url("../img/HERO.png") center top no-repeat;
 	background-size: cover;
 }
 .navbar-light .navbar-toggler {
